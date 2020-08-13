@@ -15,11 +15,17 @@ These rules are subject to change at any time, by doing combat here you accept r
 ## CONTENTS
 
 I. The Big Ones
+
 II. Basic Rules
+
 III. Weapons
+
 IV. Deployables/Armor
+
 V. Vehicles
+
 VI. Ratios
+
 VII. Unbanning
 
 ## SECTION I - THE BIG ONES
