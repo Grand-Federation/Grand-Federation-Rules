@@ -134,7 +134,7 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 ## SECTION V - VEHICLES
 
-1. Ground-based armored Vehicles are limited to 400 HP at max, but health and speed should be inverse of each other so a more heavily armored tank should be slower. Armored gunships are limited to 200 HP at max and must also trade armor for speed or vice versa. Fleetships are allowed per defending OIC discretion.
+1. Ground-based armored Vehicles are limited to 250 HP at max, but health and speed should be inverse of each other so a more heavily armored tank should be slower. Armored gunships are limited to 100 HP at max and must also trade armor for speed or vice versa. Fleetships are allowed per defending OIC discretion.
 
 2. Vehicles follow the same rules as deployables in terms of authorized armor systems and therefore should use a variant of LBA.
 
