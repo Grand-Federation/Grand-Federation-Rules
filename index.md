@@ -74,7 +74,7 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 10. The Attacking OIC is responsible for all attackers from their group, whether they are "lone wolfing" or not.
 
-11. The Attacking OIC has the right to request exclusivity in their attack, or for the attacker hub to be cleared. The Defending OIC also can request only Federation personnel to defend. Raid intercepts and three-way battles must be approved by both sides.
+11. The Attacking OIC has the right to request exclusivity in their attack, or for the attacker hub to be cleared. The Defending OIC also can request only Federation personnel to defend. Precedence is first come, first serve. Raid intercepts/joint raids are when more than one group attack the sim together. The primary attackers must assume OIC for ALL attacking forces; we will not play "musical OICs," if the primary OIC is unable or unwilling to assume responsibility for the other attackers, then the secondary group(s) will not be permitted to fight. Three-way battles must be approved by all already-present sides, with each side fighting each other.
 
 12. Both sides are allowed one "super weapon" per hour of battle. This could be either a supermassive, endgame fleetship, a giant nuke, et cetera. Any sort of map-build-generated weapon is exempt from this rule, as they may be triggered by either side and are considered a "build hazard." This cannot be done as a hit-and-run attack; your force must be attacking for at least 60 minutes before you are cleared to use your superweapon. 
 
