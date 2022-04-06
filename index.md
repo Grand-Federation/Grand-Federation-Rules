@@ -1,6 +1,6 @@
 
 
-# Grand Federation Combat Regulations (08/29/20)
+# Grand Federation Combat Regulations (04/5/22)
 
 ## FORWARD
 
@@ -116,11 +116,13 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 14. Worn interceptors and shields are forbidden, exceptions include directional riot shields of reasonable size (not 10m wide, etc). This applies to both physical and raycast blocking devices.
 
+15. Invisible/black/highly transparent bullets must be hardlocked to 150m/s or slower, or have tracers every 5 shots or less. Yes, we're aware that silencers have no bearing on velocity in RL. You're using subsonic ammo.
+
 ## SECTION IV - DEPLOYABLES & ARMOR
 
 1. Use of non-LBA based armor is forbidden, if a group is incapable of functioning without LBA exceptions may be made per defending OIC discretion, the allowance of such systems during a raid is not a permanent allowance. Damage caps on LBA-based armor should be kept within reason or be returned. Inverse LBA is currently only allowed for breach entry/exits.
 
-2. Only the provided medic TP system is approved for combat.
+2. Only the provided medic TP system is approved for teleporting in combat.
 
 3. Sit Barricades must have reasonable hitpoint amounts for their size and have hitpoints no greater than 50. You are only allowed ONE sit barricade per life.
 
