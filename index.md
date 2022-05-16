@@ -1,10 +1,10 @@
 
 
-# Grand Federation Combat Regulations (04/5/22)
+# Grand Federation Combat Regulations (05/16/22)
 
 ## FORWARD
 
-Please use common sense, just because something isn't mentioned in the rules does not mean it is OK. If something is not explicitly banned but is clearly being used in an attempt to circumvent the rules, it is not allowed. If something is not covered here but deemed to be disallowed by the defending officer, stop doing it for the time being until it is reviewed by Grand Federation leadership to determine if it should or shouldn't be allowed and we will follow up with you when such decision is made.
+Please use common sense, just because something isn't mentioned in the rules does not mean it is OK. If something is not explicitly banned but is clearly being used in an attempt to circumvent the rules, it is not allowed. If something is not covered here but deemed to be disallowed by the defending officer, stop doing it for the time being until it is reviewed by Grand Federation leadership to determine if it should or shouldn't be allowed and we will follow up with you when such decision is made. Our rules are not difficult to follow; if you're having to sit there and do a bunch of calculations about whether what you're doing is against the rules, your intent probably is to screw with people rather than fight in good faith, so don't do it. Any hard limit numbers are limits, not goals.
 
 We are generally lax on rules enforcement because we believe in innovating new ideas for combat, and we would rather not disrupt combat flow if infractions are not particularly severe. Please do not use this to be a rules-lawyering asshole; we will know, and if you want to act stupid, we will treat you that way.
 
@@ -86,6 +86,8 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 16. In any build, it is acceptable to use a swimming HUD or amphibious vehicle so long as it incurs a movement penalty in the water. Boats are also allowed, but as with all vehicles, should be LBA-compatible.
 
+17. Raycast-blocking devices that are not solid objects must be via deployables planted at the fighter's feet. This means that thrown or launched raycast blocking munitions are banned. Further, raycast blockers must be a "hollow shell," so that explosives detonating on the inside can damage it.
+
 ## SECTION III - Weapons
 
 1. Use of griefer tools or similar devices such as autokillers, orbiters, and push weaponry is not allowed. This includes devices which unintentionally impede the movement of armored units or send them off-world (your bullets shouldn't grief armor).
@@ -140,15 +142,13 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 2. Vehicles follow the same rules as deployables in terms of authorized armor systems and therefore should use a variant of LBA.
 
-3. LBA is allowed for vehicles if reasonably balanced. Light armored vehicles can be full LBA if the HP is low enough to justify it, an example would be an armored car that is full LBA but only 25 hitpoints so its resistant to bullets but still dies with relative ease to any anti-armor weapon.
+3. Aircraft are expected to be used as intended, gunships are not tanks and should not be used as tanks, else they will be treated as such and held to the same standards, this applies both ways.
 
-4. Aircraft are expected to be used as intended, gunships are not tanks and should not be used as tanks, else they will be treated as such and held to the same standards, this applies both ways.
-
-5. Fast-moving aircraft must always apply forward force. The intent of this rule is to disallow old-school "UFO planes," which were characterized by extremely fast movement in any direction at any time. Slow-moving aircraft can still utilize VTOL or simulated helicopter controls.
+4. Fast-moving aircraft must always apply forward force. The intent of this rule is to disallow old-school "UFO planes," which were characterized by extremely fast movement in any direction at any time. Slow-moving aircraft can still utilize VTOL or simulated helicopter controls.
 
 ## SECTION VI - RATIOS
 
-The Grand Federation does not believe in attacker-to-defender ratio rules. However it should be noted that it doesn't say anything great about your group if you need to bring in 12 people to fight against 3 defenders. That said entering the sim en mass during periods of low or little activity with the intent to blackscreen or otherwise block us in the spawns is asinine, petty, and will likely result in zeppelins or other heavy escalation.
+The Grand Federation does not believe in attacker-to-defender ratio rules. However it should be noted that it doesn't say anything great about your group if you need to bring in 12 people to fight against 3 defenders, and since it's in bad faith, you're likely going to get banned for some other infraction. That said entering the sim en mass during periods of low or little activity with the intent to blackscreen or otherwise block us in the spawns is asinine, petty, and will likely result in zeppelins or other heavy escalation.
 
 ## SECTION VII - UNBANNING
 
