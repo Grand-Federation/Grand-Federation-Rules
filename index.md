@@ -88,7 +88,7 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 17. Raycast-blocking devices that are not solid objects must be via deployables planted at the fighter's feet. This means that thrown or launched raycast blocking munitions are banned. Further, raycast blockers must be a "hollow shell," so that explosives detonating on the inside can damage it.
 
-## SECTION III - Weapons
+## SECTION III - WEAPONS
 
 1. Use of griefer tools or similar devices such as autokillers, orbiters, and push weaponry is not allowed. This includes devices which unintentionally impede the movement of armored units or send them off-world (your bullets shouldn't grief armor).
 
@@ -108,7 +108,7 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 9. Explosions, gas, or similar munitions should be indiscriminate, no explosions should be group or owner safe, exceptions may apply in very specific circumstances (gas mask checks, etc) cleared beforehand by Grand Federation leadership. Land mines however are not required to detonate on friendly agents unless touched directly by them.
 
-10. Flashbangs are to last a reasonable amount of time (ideally at or under 10 seconds) and must count down regardless of mouselook status. Flashbangs or similar devices can either blind infantry OR tanks, not both.
+10. Flashbangs are to last a reasonable amount of time (ideally at or under 10 seconds) and must count down regardless of mouselook status. Flashbangs or similar devices can either blind infantry OR vehicles, not both.
 
 11. Hand grenades should not be thrown faster than a maximum of 30 m/s, and if there is adjustable gravity, it should be as close to standard as possible. This is to prevent physics gaps, and you are also not an MLB pitcher.
 
@@ -119,6 +119,8 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 14. Worn interceptors and shields are forbidden, exceptions include directional riot shields of reasonable size (not 10m wide, etc). This applies to both physical and raycast blocking devices.
 
 15. Invisible/black/highly transparent bullets must be hardlocked to 150m/s or slower, or have tracers every 5 shots or less. Yes, we're aware that silencers have no bearing on velocity in RL. You're using subsonic ammo.
+
+16. Weapons that deploy constant-damage (HP/LBA) "puddles" are not permitted. Puddles of flammable liquid, et cetera, are fine, but area-denial puddles are not permitted (e.g., ESC thermite, Silver Hawks water puddle.)
 
 ## SECTION IV - DEPLOYABLES & ARMOR
 
