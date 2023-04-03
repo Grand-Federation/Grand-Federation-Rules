@@ -58,7 +58,7 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 2. Breaching is allowed, but there are rules. Instant breaches (i.e. you hit a button, you immediately can go through something) are allowed to be used horizontally provided that they are not spammed. You can breach up and down so long as the cast time is three seconds (you hit a button, place a charge, and then it creates a breach three seconds later). Persistent breaches should be able to be used by anyone close enough, somehow removable (repair/destroy), and should be two-way.
 
-3. Engaging from the spawn area is prohibited. Engaging from the area -around- the spawn buildings is fine, but keep in mind that as a common courtesy we don't fire into those areas. That courtesy is revoked the moment we are shot from inside the areas around the attacker spawns, and we will enter them to remove enemy deployables.
+3. The spawn points are not to be used for any sort of combat; the marked orange zones are permitted for combat, but the employment of AoE weapons from or into these areas is strictly prohibited, as are behaviors designed to limit people's ability to leave them. Participants are not permitted to enter the opposing orange zone (e.g. defenders can't enter attacker orange zones, and vice versa.)
 
 4. Sithacking is prohibited. This means don't use the build menu to bypass having to move through the sim. If you are stuck in something, ctrl shift H.
 
@@ -87,6 +87,8 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 16. In any build, it is acceptable to use a swimming HUD or amphibious vehicle so long as it incurs a movement penalty in the water. Boats are also allowed, but as with all vehicles, should be LBA-compatible.
 
 17. Raycast-blocking devices that are not solid objects must be via deployables planted at the fighter's feet. This means that thrown or launched raycast blocking munitions are banned. Further, raycast blockers must be a "hollow shell," so that explosives detonating on the inside can damage it.
+
+18. Former members of the Grand Federation are not permitted to use decommissioned, experimental, or outdated GF gear outside of special events. In other words, unless it is currently up to date (e.g. gear representatives, retired members permitted armory access) or you helped crowdfund the weapon, using old GF gear against us is forbidden.
 
 ## SECTION III - WEAPONS
 
