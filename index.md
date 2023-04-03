@@ -1,6 +1,6 @@
 
 
-# Grand Federation Combat Regulations (05/16/22)
+# Grand Federation Combat Regulations (04/02/23)
 
 ## FORWARD
 
