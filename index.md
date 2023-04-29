@@ -104,7 +104,7 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 6. Weapons should have reasonable rates of fire, magazine size, and/or reload times, an example (though not hard limit) of such would be a gun with a 200 round magazine that fires at 2500 RPM with a 2 second reload, this would very obviously go against common sense and not be allowed.
 
-7. Weapons must rez one bullet at a time, with the exception of shotguns.
+7. Weapons cannot use offset spread; they must use conical spread or a close enough approximation. Combining both conical and offset spread is not permitted.
 
 8. All munitions should be deployed from a qualifying platform and have a route through physical space that they travel through. This means inventory-dropped bombs and systems that rez munitions directly on impact points are forbidden.
 
@@ -124,11 +124,15 @@ Breaking these rules is a one-way ticket off sim. You will be banned immediately
 
 16. Weapons that deploy constant-damage (HP/LBA) "puddles" are not permitted. Puddles of flammable liquid, et cetera, are fine, but area-denial puddles are not permitted (e.g., ESC thermite, Silver Hawks water puddle.)
 
+17. LBA AT splash effect range must be inversely correlated to LBA AT damage values. On top of this, LBA AT splash must have a linear falloff entirely contained within the infantry kill radius.
+
+18. Infantry are not permitted to employ heavy anti-tank raycast weapons. Cross-sim raycast weapons can do no more than 10 AT per shot, while constant-beam raycast with distance-based falloff can do a maximum of 15 damage per second.
+
 ## SECTION IV - DEPLOYABLES & ARMOR
 
 1. Use of non-LBA based armor is forbidden, if a group is incapable of functioning without LBA exceptions may be made per defending OIC discretion, the allowance of such systems during a raid is not a permanent allowance. Damage caps on LBA-based armor should be kept within reason or be returned. Inverse LBA is currently only allowed for breach entry/exits.
 
-2. Only the provided medic TP system is approved for teleporting in combat.
+2. Only the provided medic TP system is approved for teleporting in combat. Infantry fighting vehicles/armored personnel carriers with a REALISTIC amount of "respawn" slots reflective of how many personnel could fit in the vehicle are an exception to this. Please bear in mind that this is a fairly new concept being used in the community- it is subject to case by case approval or disapproval.
 
 3. Sit Barricades must have reasonable hitpoint amounts for their size and have hitpoints no greater than 50. You are only allowed ONE sit barricade per life.
 
@@ -159,5 +163,9 @@ The Grand Federation does not believe in attacker-to-defender ratio rules. Howev
 So you have been banned from the sim. What now?
 
 If you feel that your ban was unjust, you can contact a GF officer to file a complaint. Keep in mind, however, that we all talk to each other and most interactions with people regarding sim administration are shared on our discord. If you immediately start screeding in public about how big bad Grand Fed banned you and how they're killing the community by doing so, we will be significantly less inclined to help you. If your approach is to message a random enlisted member, know that they have been told to ignore any attempt to discuss administrative actions. If you decide that messaging an officer with a bunch of profanity and generally shitty things, or decide to target the responsible officer for harassment, you will most likely have your ban upgraded to a permanent one.
+
+## SECTION VIII - FAQS AND EXAMPLES
+
+This section will be where we put frequently asked questions as well as demonstrative examples if a rule does not seem clear.
 
 **Come correct, or don't come at all.**
