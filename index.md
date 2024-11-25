@@ -68,7 +68,7 @@ If you are not a scripter, developer, group leader, or otherwise involved in cre
 
 5. Generally speaking, you should not be killing people through walls, be it by using phantom bullets, non-raycasted grenades, or using rez offset to shoot through walls, unless it is via breaching or a specialized munition that is approved for use (e.g. superheavy artillery doing partial through walls, satchel charges that provide an indicator that they're about to breach a wall before firing, etc.)
 
-6. Automatic melees and/or 360-degree melees are not permitted.
+6. Automatic melees and/or 360-degree melees are not permitted. 
 
 7. Seekers, to include anti-aircraft missiles, are not permitted.
 
@@ -112,7 +112,7 @@ If you are not a scripter, developer, group leader, or otherwise involved in cre
 
 27. Agentlist weapons are not permitted.
 
-28. Worn interceptors, "shields," or equipment designed to prevent you from being hit are not permitted. llAdjustDamage has been turned off in Hellfire, so armor systems will not work here.
+28. Worn interceptors, "shields," or equipment designed to prevent you from being hit are not permitted. One-directional riot shields are permitted so long as they have limited HP and cannot protect the user while they are firing. llAdjustDamage has been turned off in Hellfire, so armor systems will not work here.
 
 29. You may not teleport people outside of the spawn areas in combat. You are allowed to use the provided medic TP system, and you may use infantry fighting vehicles/armored personnel carriers with respawn slots reflective of the vehicle's capacity.
 
