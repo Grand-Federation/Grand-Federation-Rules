@@ -116,11 +116,11 @@ If you are not a scripter, developer, group leader, or otherwise involved in cre
 
 29. You may not teleport people outside of the spawn areas in combat. You are allowed to use the provided medic TP system, and you may use infantry fighting vehicles/armored personnel carriers with respawn slots reflective of the vehicle's capacity.
 
-30. LBA is the only approved health system for vehicles, deployables, and non--player-infantry entities.
+30. LBA is the only approved health system for vehicles, deployables, and non-player-infantry entities.
 
 31. You are limited to ONE interceptor per person.
 
-32. Deployables can start with a max of 100 HP. If more, they must be constructed over time, or built up after being placed.
+32. Deployables can start with a max of 100 HP. If more, they must be constructed over time, or built up after being placed. Deployables specifically placed by appropriate vehicles (engineering vehicles, purpose-built things) can start with a max of 250 HP- but they are still subject to general sanity tests (e.g. don't spam them every five feet, etc.)
 
 33. If you are a lone wolf (a single attacker, or a small provisional group of otherwise unorganized attackers,) we are willing to be very lenient on combatant rules enforcement.
 
